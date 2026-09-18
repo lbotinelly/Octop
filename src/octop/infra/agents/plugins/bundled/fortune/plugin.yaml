@@ -1,7 +1,7 @@
 id: fortune
 version: 0.2.0
-name: 抽签运势
-description: 掷骰子、今日运势与抽签，在聊天中展示结果卡片
+name: Fortune & Dice
+description: Dice rolls, daily fortune, and divination sticks, shown as result cards in chat
 icon: "🔮"
 kind: tool
 entry: main.py
